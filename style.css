@@ -614,8 +614,8 @@ h1.handline span {
   font-weight: 600;
   z-index: 999;
   position: relative;
-  font-size: clamp(30px, 5vw, 72px);
-  line-height: clamp(40px, 6vw, 84px);
+  font-size: clamp(35px, 5vw, 72px);
+  line-height: clamp(45px, 6vw, 84px);
 }
 #testimonial .card-body {
   text-align: left;
